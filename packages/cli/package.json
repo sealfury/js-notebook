@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "commander": "^8.0.0",
-    "local-api": "^1.0.0"
+    "@zeus-notebook/local-api": "^1.0.0"
   },
   "devDependencies": {
     "@types/node": "^16.3.2",
